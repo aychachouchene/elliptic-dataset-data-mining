@@ -1,0 +1,9 @@
+# Ignore normalized and standardized CSV files
+elliptic_normalized.csv
+elliptic_standardized.csv
+
+# Ignore data directory and its contents
+data
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
